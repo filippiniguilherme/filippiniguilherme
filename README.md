@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Filippini</h1>
 <h3 align="center">I'm a Full-Stack Software Developer, passionate to learn new technologies.</h3>
 
-- 🔭 I’m currently working on **HP Inc.**
+- 🔭 I’m currently working on **ADP Brazil Labs**
 
 - 🌱 I’m currently learning **React and Node.js**
 
